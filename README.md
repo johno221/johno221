@@ -1,5 +1,5 @@
-# About Me -  DevOps / Platform Engineer
-I am a DevOps / Platform Engineer focused on building reliable, automated and production-ready infrastructure. My work revolves around Kubernetes, containerization, CI/CD pipelines, and modern DevSecOps practices. I aim to create systems that are reproducible, secure, and easy to maintain.
+# About Me -  DevOps 
+I am a DevOps focused on building reliable, automated and production-ready infrastructure. My work revolves around Kubernetes, containerization, CI/CD pipelines, and modern DevSecOps practices. I aim to create systems that are reproducible, secure, and easy to maintain.
 
 ## What I Work With
 - Kubernetes (k8s), MicroK8s, Helm, GitOps
