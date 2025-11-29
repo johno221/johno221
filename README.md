@@ -8,12 +8,11 @@ I am a DevOps focused on building reliable, automated and production-ready infra
 - DevSecOps: Trivy, statická analýza, security scanning
 - Monitoring: Prometheus, Grafana, Loki
 - Infrastructure as Code: Terraform, Ansible
-- Vývoj jednoduchých microservices (Java / Spring Boot, Python)
-- Scripting: Bash, Python
+- Scripting: Bash, Groovy
 
 ## What You Will Find in My Repositories
-- Kafka deployment na Kubernetes pomocou Helm chartov
-- PostgreSQL StatefulSet + PVC demo (storage architektúra v k8s)
+- Kafka deployment na Kubernetes bsaed Helm charts
+- PostgreSQL StatefulSet + PVC demo (storage architecture v k8s)
 - Microservice (Spring Boot) + Docker + MicroK8s + JMeter performance testy
 - GitOps repo pre osobný web (automatizované nasadenie)
 - CI/CD utility pre Jenkins a automatizované POM/JSON upgrady
